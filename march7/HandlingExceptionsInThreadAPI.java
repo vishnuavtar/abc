@@ -16,9 +16,6 @@ import java.lang.Thread.UncaughtExceptionHandler;
 
 public class HandlingExceptionsInThreadAPI {
 
-
-
-
 	
 	public static void main(String[] args) {
 		
